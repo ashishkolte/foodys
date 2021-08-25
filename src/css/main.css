@@ -1,0 +1,29 @@
+#search {
+  width: 50%;
+  height: 40px;
+  border-radius: 5px;
+  margin: 0 6px;
+  padding: 6px 3px;
+  border: 1px solid maroon;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.layout {
+  width: 70%;
+  margin: 5% 15%;
+}
+
+.menuBar {
+  background-color: orange;
+}
+
+.logoImg {
+  vertical-align: middle;
+}
+
+.markImg {
+  position: absolute;
+  left: 80%;
+  vertical-align: middle;
+}
